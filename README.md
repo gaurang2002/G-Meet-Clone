@@ -3,13 +3,6 @@
 
 A video chat application built with Node.js, Socket.io and WebRTC.
 
-
-## Badges
-
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
-
 ## Structure
 
 - `/server.js` - entry point of the application, configures the server
@@ -56,10 +49,5 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
-
-
-## License
-
-[MIT](https://github.com/ayushavi1/video-chat/blob/main/LICENSE)
 
 
